@@ -1,0 +1,14 @@
+[
+  {
+    "target_path":"hardware/qcom-caf/sm8150"
+  },
+  {
+    "target_path":"hardware/qcom-caf/msm8996"
+  },
+  {
+    "target_path":"hardware/qcom-caf/wlan"
+  },
+  {
+    "target_path":"packages/apps/Updater"
+  }
+]

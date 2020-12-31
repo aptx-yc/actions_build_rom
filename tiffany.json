@@ -1,0 +1,27 @@
+[
+  {
+    "url":"https://github.com/laityts/android_kernel_xiaomi_msm8953",
+    "target_path":"kernel/xiaomi/msm8953",
+    "branch":"11.0"
+  },
+  {
+    "url":"https://github.com/laityts/android_device_xiaomi_msm8953-common",
+    "target_path":"device/xiaomi/msm8953-common",
+    "branch":"11.0"
+  },
+  {
+    "url":"https://github.com/laityts/android_device_xiaomi_tiffany",
+    "target_path":"device/xiaomi/tiffany",
+    "branch":"11.0"
+  },
+  {
+    "url":"https://github.com/laityts/vendor_xiaomi",
+    "target_path":"vendor/xiaomi",
+    "branch":"11.0"
+  },
+  {
+    "url":"https://gitlab.com/AOSPA/android_vendor_google_gms",
+    "target_path":"vendor/google/gms",
+    "branch":"ruby"
+  }
+]
