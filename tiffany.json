@@ -1,0 +1,32 @@
+[
+  {
+    "url":"https://github.com/laityts/android_kernel_xiaomi_msm8953",
+    "target_path":"kernel/xiaomi/msm8953",
+    "branch":"lineage-18.1"
+  },
+  {
+    "url":"https://github.com/laityts/android_device_xiaomi_tiffany",
+    "target_path":"device/xiaomi/tiffany",
+    "branch":"lineage-18.1"
+  },
+  {
+    "url":"https://github.com/laityts/proprietary_vendor_xiaomi-1",
+    "target_path":"vendor/xiaomi",
+    "branch":"lineage-18.1"
+  },
+  {
+    "url":"https://github.com/crdroidandroid/android_hardware_qcom_display",
+    "target_path":"hardware/qcom-caf/msm8996/display",
+    "branch":"11.0-caf-msm8996"
+  },
+  {
+    "url":"https://github.com/crdroidandroid/android_hardware_qcom_media",
+    "target_path":"hardware/qcom-caf/msm8996/media",
+    "branch":"11.0-caf-msm8996"
+  },
+  {
+    "url":"https://gitlab.com/AOSPA/android_vendor_google_gms",
+    "target_path":"vendor/google/gms",
+    "branch":"ruby"
+  }
+]

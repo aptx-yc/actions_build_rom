@@ -1,0 +1,22 @@
+[
+  {
+    "url":"https://github.com/zeelog/android_kernel_xiaomi_mido",
+    "target_path":"kernel/xiaomi/mido",
+    "branch":"lineage-18.1"
+  },
+  {
+    "url":"https://github.com/zeelog/android_device_xiaomi_mido",
+    "target_path":"device/xiaomi/mido",
+    "branch":"lineage-18.1"
+  },
+  {
+    "url":"https://github.com/zeelog/proprietary_vendor_xiaomi",
+    "target_path":"vendor/xiaomi",
+    "branch":"lineage-18.1"
+  },
+  {
+    "url":"https://github.com/crdroidandroid/android_hardware_qcom_display",
+    "target_path":"hardware/qcom-caf/msm8996/display",
+    "branch":"11.0-caf-msm8996"
+  }
+]
